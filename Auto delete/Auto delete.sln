@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auto delete", "Auto delete\Auto delete.csproj", "{B8DAEDE0-0C72-4FE5-B481-E04C65D1D808}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8DAEDE0-0C72-4FE5-B481-E04C65D1D808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8DAEDE0-0C72-4FE5-B481-E04C65D1D808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8DAEDE0-0C72-4FE5-B481-E04C65D1D808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8DAEDE0-0C72-4FE5-B481-E04C65D1D808}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40BA3B94-46BF-4082-AE8F-4DE78A7C1558}
+	EndGlobalSection
+EndGlobal
